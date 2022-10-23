@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "createAt": null,
+      "title": "zadanie 1"
+    },
+    {
+      "id": 2,
+      "createAt": null,
+      "title": "zadanie 2"
+    },
+    {
+      "id": 3,
+      "createAt": null,
+      "title": "zadanie 3"
+    },
+    {
+      "id": "1b6bea4c-e7e1-421a-918a-1b51634737ea",
+      "createAt": "Sun Oct 23 2022 15:51:51 GMT+0200 (czas środkowoeuropejski letni)",
+      "title": "dodaje zadanie"
+    }
+  ],
+  "archtasks": [
+    {
+      "id": 1,
+      "title": "zadanie 1"
+    },
+    {
+      "id": 2,
+      "title": "zadanie 2"
+    },
+    {
+      "id": 3,
+      "title": "zadanie 3"
+    }
+  ]
+}
