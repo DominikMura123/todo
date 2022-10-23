@@ -104,8 +104,8 @@ function TodoList() {
                 {tasks.map((task) => {
                     return(
                         <li key={task.id}>
-                            <p>nazwa: {task.title}</p>
-                            {task.createAt && <p>dodano: {task.createAt}</p>}
+                            nazwa: {task.title}
+                            {task.createAt && <span> dodano: {task.createAt}</span>}
                         </li>
                     );
                 }) ?? []}
